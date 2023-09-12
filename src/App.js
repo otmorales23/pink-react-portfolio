@@ -15,6 +15,10 @@ function App() {
           <Header />
           <Routes>
             <Route
+              path="/"
+              element={<About />}
+            />
+            <Route
               path="/About"
               element={<About />}
             />
