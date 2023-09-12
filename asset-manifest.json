@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pink-react-portfolio/static/css/main.6779094c.css",
+    "main.js": "/pink-react-portfolio/static/js/main.026f7043.js",
+    "static/media/fashion-fusion.png": "/pink-react-portfolio/static/media/fashion-fusion.e1ee720faf8ac713560e.png",
+    "static/media/photo-of-me.jpg": "/pink-react-portfolio/static/media/photo-of-me.edb46664ede966087951.jpg",
+    "static/media/workday-scheduler.png": "/pink-react-portfolio/static/media/workday-scheduler.11aaaf2cac3004b70580.png",
+    "static/media/coding-quiz.png": "/pink-react-portfolio/static/media/coding-quiz.2f5bd6f6b9325f8817b0.png",
+    "static/media/password-generator.png": "/pink-react-portfolio/static/media/password-generator.ae01007106d1c1f43106.png",
+    "static/media/pastel-note-taker.png": "/pink-react-portfolio/static/media/pastel-note-taker.a138e5d28a914be4b74d.png",
+    "index.html": "/pink-react-portfolio/index.html",
+    "main.6779094c.css.map": "/pink-react-portfolio/static/css/main.6779094c.css.map",
+    "main.026f7043.js.map": "/pink-react-portfolio/static/js/main.026f7043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6779094c.css",
+    "static/js/main.026f7043.js"
+  ]
+}
