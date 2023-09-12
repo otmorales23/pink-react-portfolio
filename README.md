@@ -18,6 +18,7 @@
 
   ## Installation
   To view this portfolio, simply click the link provided in this ReadMe.
+  [Deployed Application](https://otmorales23.github.io/pink-react-portfolio/)
 
   ## Usage
   To use this portfolio, open the link in a new tab. Then use the navigation bar to either read a blurb about me, see examples of my work with links to their GitHub repositories, or click the Contact Me section to send me a message.
